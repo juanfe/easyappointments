@@ -334,8 +334,8 @@
                 <!-- FRAME FOOTER -->
 
                 <div id="frame-footer">
-                    Powered By
-                    <a href="http://easyappointments.org" target="_blank">Easy!Appointments</a>
+                    Por
+                    <a href="http://www.opdevel.com" target="_blank">Appo</a>
                     |
                     <span id="select-language" class="label label-success">
     		        	<?= ucfirst($this->config->item('language')) ?>

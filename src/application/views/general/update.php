@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Easy!Appointments - Update</title>
+    <title>Appo - Update</title>
 
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
@@ -79,7 +79,7 @@
     </div>
 
     <footer>
-        Powered by <a href="http://easyappointments.org">Easy!Appointments</a>
+        Por <a href="http://www.opdevel.com">Appo</a>
     </footer>
 </body>
 </html>
